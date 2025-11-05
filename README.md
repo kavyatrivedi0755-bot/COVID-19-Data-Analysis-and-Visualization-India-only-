@@ -1,8 +1,8 @@
 This notebook presents an **India-focused COVID-19 Data Analysis and Visualization project**, created as a simple, beginner-friendly data science project using Python.
 
 This project is prepared by - 
-KAVYA TRIVEDI (202310101150107)
-ANVESHA SRIVASTAVA (202310101150108)
+KAVYA TRIVEDI (202310101150107);
+ANVESHA SRIVASTAVA (202310101150108);
 ARSHITA AHUJA (202310101150081)
 
 **Objectives:**
